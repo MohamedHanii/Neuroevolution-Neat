@@ -253,10 +253,5 @@ This project is part of the Search-Based Software Engineering course at the Univ
 - **NEAT Algorithm**: Original algorithm by Stanley and Miikkulainen
 - **Open Source Community**: Various testing and utility libraries
 
-## 📞 Contact
-
-For questions or support, please contact the development team or refer to the course materials.
-
----
 
 **Note**: This is an academic implementation of the NEAT algorithm designed for educational and research purposes. For production use, consider additional optimizations and testing. 
